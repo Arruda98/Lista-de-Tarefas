@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jefferson\\source\\repos\\Lista de Tarefas no Console\\Lista de Tarefas no Console\\Lista de Tarefas no Console.csproj",
+      "projectUniqueName": "C:\\Users\\Jefferson\\Source\\Repos\\Lista-de-Tarefas\\Lista de Tarefas no Console\\Lista de Tarefas no Console\\Lista de Tarefas no Console.csproj",
       "projectName": "Lista de Tarefas no Console",
-      "projectPath": "C:\\Users\\Jefferson\\source\\repos\\Lista de Tarefas no Console\\Lista de Tarefas no Console\\Lista de Tarefas no Console.csproj",
+      "projectPath": "C:\\Users\\Jefferson\\Source\\Repos\\Lista-de-Tarefas\\Lista de Tarefas no Console\\Lista de Tarefas no Console\\Lista de Tarefas no Console.csproj",
       "packagesPath": "C:\\Users\\Jefferson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jefferson\\source\\repos\\Lista de Tarefas no Console\\Lista de Tarefas no Console\\obj\\",
+      "outputPath": "C:\\Users\\Jefferson\\Source\\Repos\\Lista-de-Tarefas\\Lista de Tarefas no Console\\Lista de Tarefas no Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

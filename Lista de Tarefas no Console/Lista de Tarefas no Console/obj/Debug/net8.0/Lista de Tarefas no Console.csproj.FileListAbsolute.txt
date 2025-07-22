@@ -1,0 +1,15 @@
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\bin\Debug\net8.0\Lista de Tarefas no Console.exe
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\bin\Debug\net8.0\Lista de Tarefas no Console.deps.json
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\bin\Debug\net8.0\Lista de Tarefas no Console.runtimeconfig.json
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\bin\Debug\net8.0\Lista de Tarefas no Console.dll
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\bin\Debug\net8.0\Lista de Tarefas no Console.pdb
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.AssemblyInfo.cs
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.sourcelink.json
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.dll
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\refint\Lista de Tarefas no Console.dll
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.pdb
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\Lista de Tarefas no Console.genruntimeconfig.cache
+C:\Users\Jefferson\Source\Repos\Lista-de-Tarefas\Lista de Tarefas no Console\Lista de Tarefas no Console\obj\Debug\net8.0\ref\Lista de Tarefas no Console.dll
