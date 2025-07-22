@@ -22,6 +22,8 @@ namespace Projeto
             Console.Write("Escolha uma opção: ");
             double opcaoMenu = double.Parse(Console.ReadLine());
 
+            Console.Clear();
+
             switch (opcaoMenu)
             {
                 case 1: AdicionarTarefa(); break;
@@ -31,6 +33,7 @@ namespace Projeto
                 case 5: Sair(); break;
                 default: break;
             }
+            
         }
 
         public static void AdicionarTarefa()
@@ -52,10 +55,6 @@ namespace Projeto
         
         public static void ListarTarefa()
         {
-            Console.Clear();
-
-            int i = 1;
-
             if (Tarefas.Count == 0)
             {
                 Console.Clear();
@@ -66,17 +65,16 @@ namespace Projeto
 
                 return;
             }
-            
-            foreach (var tarefa in Tarefas)
+
+            Console.WriteLine("Lista de atividades: ");
+
+            for (int i = 0; i < Tarefas.Count; i++)
             {
                 Thread.Sleep(200);
-                Console.WriteLine($"{i}. [ ] {tarefa}");
-                i++;
+                Console.WriteLine($"{i+1}. [ ] {Tarefas[i]}");
             }
 
             Thread.Sleep(4000);
-
-            Menu();
         }
 
         public static void MarcarTarefa()
@@ -85,8 +83,10 @@ namespace Projeto
 
             Thread.Sleep(500);
             Console.WriteLine("Qual tarefa você deseja marcar?");
-            Console.WriteLine(ListarTarefa);
-            var marcaTarefa = Console.ReadLine();
+            ListarTarefa();
+            int marcar = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"");
         }
 
         public static void RemoverTarefa()
